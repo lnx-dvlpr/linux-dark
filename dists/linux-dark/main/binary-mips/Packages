@@ -1,0 +1,59 @@
+Package: dec2hex
+Architecture: mips
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 30.64
+Filename: ./dec2hex-mips.deb
+Size: 8472
+MD5sum: 0efa6aff0f855096b160cf4221248e23
+SHA1: edff2af580f7afe35163fe6334a67eb370da08f5
+SHA256: 19b8dae0d60427516f675399bc61182507e8ca15e7c910c9ce14e20cd40f4c59
+SHA512: 7a007dbe19e3e3469dae2f2948d375c134d96d210b45b70dc81419266d0b2a2e25ddbbe8987dae6e88015fb116f5308169c6c3ecd9660113f8a76de90855e891
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: mips
+Version: 1.1
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 13.76
+Filename: ./hex2dec-mips.deb
+Size: 4848
+MD5sum: 3f1633e4bb0ba4154d5fd705ce34cf9c
+SHA1: fd341170718833680797c7d932d58f5beb28c951
+SHA256: 2be9773cce70a305d384187e6dd9d984815166958d678d62e5ca0a1f9fabba8d
+SHA512: e634c9e2370a70fea105c0fb0d1b7c1fec1604fd6c8dfac56e4be82677e81e51ee2f2a3bee88b55fd801ab08c398e58d290b23dede873d30d6c7366c8f7ce9c6
+Description: Converter HEX to DEC
+
+Package: mkbootimg-static
+Architecture: mips
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 1136
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-mips.deb
+Size: 242360
+MD5sum: e91e3647e1c375af309c04c678186680
+SHA1: 687613cf2089630a16e2a21ce58689cc9cfbdd2e
+SHA256: 924956b3e6d582001e8680ea3edd3ee545236fd42f19a8272d4402df1e6f17ca
+SHA512: d9f1a73673d290dde91186a899f038535e5d6dbafdc0d570238824839b2c51b701f3ef1c7b140e23109b5abf144ea02b3e6df3a6ef6d47495437a386719d32ad
+Description: Static bootimg utilities
+
+Package: upx
+Architecture: mips
+Version: 3.96
+Maintainer: upx
+Installed-Size: 435
+Filename: ./upx-mips.deb
+Size: 445000
+MD5sum: d6e68bcacb54c02308ce96d3a986b192
+SHA1: 567c25b067e2a7ee685ff30374447f6073661b17
+SHA256: beee8dc322ff274344f57801143db5037e265d05942c10f8f1a0082b747f5fef
+SHA512: cb28216a9d11422fa7fc618c4be8f0b7fc181c8d41c86877cae0816c02d91a0e57c367447032fc1104525f0f512fe2129abb910800448b9af5440efa45ab56a3
+Description: Revrse-engineering tool
+

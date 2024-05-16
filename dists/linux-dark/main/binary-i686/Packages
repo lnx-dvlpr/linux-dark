@@ -1,0 +1,62 @@
+Package: btop
+Architecture: i686
+Version: 1.0.6
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: aristocratos
+Installed-Size: 4442152
+Filename: ./btop-i686.deb
+Size: 1314572
+MD5sum: c3bea939de98ab4e7c142ca49f23f9ec
+SHA1: f90baea993c6378347b8498de68ac74bd7bb6c96
+SHA256: eecc27b9f8ad5160cbee7df20c92ff88525bef2d3fbe3891070676ae297448f9
+SHA512: 0259f2c2afb3959de2b1b4cdd77d04c7cbc7890e653d81087dc7ec3b86df818a45ab08f87ea8232669527de8135c634589efa41cdc4cb8bef53917c0d8e418a9
+Description: Linux task manager
+
+Package: dec2hex
+Architecture: i686
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 22
+Filename: ./dec2hex-i686.deb
+Size: 7048
+MD5sum: 45a3a6494c4225ad2a1304bb7b6b0d4b
+SHA1: 42dd298bd630c8726af59d9222151f4295350c4a
+SHA256: 6ac5137ceb5fa249dcc2d410c771f4bc498790cf46ce523f56b652275318cb31
+SHA512: aab8098a9214c48c82b49fcbb8a084d7c9efa1d6dabac12436bf20aeda0db66176cc8781da6ad52ce99588bc83eedee460a5eda8ad223bd9e81806fcab05c26f
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: i686
+Version: 1.1
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 13.82
+Filename: ./hex2dec-i686.deb
+Size: 3556
+MD5sum: 0f3f4877fb1c90670747129eb931a73c
+SHA1: a52dd6ffb756177e2b7fbd1043e43c3b805580d8
+SHA256: d829edfdf1333142798808a7f760267ce39184208685d30f7d5ac4e6488ec3aa
+SHA512: d8ad42e71c1d0d726a2df317cec757e73adf701682b500cc334919472b264631083518831fbe333df2506d7d756329484850eb0e1baf1117d4cd0e95171533d9
+Description: Converter HEX to DEC
+
+Package: mkbootimg-static
+Architecture: i686
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 1392
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-i686.deb
+Size: 321776
+MD5sum: 6b836d3c5f1ef4082bfadfb2a8f7687d
+SHA1: 1e34dc928e1f68596b6b19da40f2b6c20cc69aca
+SHA256: 15238d9a6b3454c7b9d1f169a6595c598cdd521b4c476b3f0883f7aa5bb58a57
+SHA512: 64ac7607d773fa29d46e13585c9ee7cdc9ebbd747456836c8689897b46786d8805d5e624f874f771d358759ab63867b41ca187b235d9fb5fcf07b6fb1ed93ab1
+Description: Static bootimg utilities
+

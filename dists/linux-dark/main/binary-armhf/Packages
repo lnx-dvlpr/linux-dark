@@ -1,0 +1,130 @@
+Package: btop
+Architecture: armhf
+Version: 1.0.6
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: aristocratos
+Installed-Size: 3031160
+Filename: ./btop-armhf.deb
+Size: 1047380
+MD5sum: 47b6bcd8b34aa9f5a24c9d2abb4a4dfc
+SHA1: 81ca7c6ad9b8cd5fe23d017126fe4b292122b34a
+SHA256: 4d2537bc83e06641328c6ae8c43ab21a9e926349d046066d47071130e0ad8cdb
+SHA512: 99bd0646685cc141ecad6ecd6913ce54b1aaec09912f0f0cca69d61a8a1646cbf1f43d526552e76de02cc49a4b79e0c73010c56d541f2d08db7310bd20c5a332
+Description: Linux task manager
+
+Package: busybox-magisk
+Architecture: armhf
+Version: 1.34.1-magisk
+Maintainer: topjohnwu
+Installed-Size: 1404
+Conflicts: busybox, busybox-meefik
+Filename: ./busybox-magisk-armhf.deb
+Size: 778840
+MD5sum: 0b7a0cc8f02c007c83d2f0bd2d06ee53
+SHA1: 4b083e043e7a6cd5c826a7575417758422a84b39
+SHA256: ffeddcdc1a3590d8fae1f2248c6cbb8bb241bc0568ae2b58576653a8f3d4fb0b
+SHA512: 7fc1fd041a3f69e4de1320f0a880b143c03c2e725fb771d2f02d7360028dc963be0f278e06706a08758bf88380c2053a134df9b6ad516eb793dda31c448ca41c
+Description: Magisk version of Busybox
+
+Package: busybox-meefik
+Architecture: armhf
+Version: 1.34.1-meefik
+Maintainer: meefik
+Installed-Size: 1412
+Conflicts: busybox, busybox-magisk
+Filename: ./busybox-meefik-armhf.deb
+Size: 699412
+MD5sum: 088eb6df8ca841655bcd3d0176569249
+SHA1: b8ae0adf275cd93f4720cb0c2abac0dd23575cf7
+SHA256: 36390b0831b576b1132ec0063466d41a4a71f93719f76f231e9e3520e8172fae
+SHA512: c595d5d77ac360079202e5c3f01cb6ce424dd8a4fde978db8719bd9cb8ea313f48e913b867efcfe0f672bd329c680e784b53eae7e413fa11d530f81efb8270ea
+Description: Busybox static with additional functions
+
+Package: dec2hex
+Architecture: armhf
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 67.2
+Filename: ./dec2hex-armhf.deb
+Size: 5176
+MD5sum: c6164cf3d2a513dc822ad916354ab32f
+SHA1: e1920be476c5926d07f4909489b9f67762f92b5c
+SHA256: 08c2db324fc507f3c3fb4083c782f190becb4ccb6c9948096e0ae59c0a6089be
+SHA512: bdd9410a9840ed6352ca00e476dcc4ce0c6189ae8b8deccc23b62ff0a471791920818716c99734a59c0dd9ae285326d889e83541634f3374cd40eba197898934
+Description: Converter DEC to HEX
+
+Package: geomac
+Architecture: armhf
+Version: 0.1-1
+Priority: optional
+Section: base
+Maintainer: Victor Golovanenko <drygdryg2014@yandex.com>
+Depends: libssl1.1, libgtk-3-0
+Filename: ./geomac-armhf.deb
+Size: 397020
+MD5sum: 02241dbe63a212dae695b44e34b88ddc
+SHA1: 3f2d5098e3fb2687c0b583339d4ec8d615a636d9
+SHA256: fd6a765bf09b683cd9271ca3e00c9f89181610617478d52026fc1ef3b6620090
+SHA512: 6f261ce7b052949e220c9754b52649e9b9718c05fcc2f64911852970b87a7f56540fc175ecf825aee0484393df8a3dbec21de64288b9a4cbaacf5f3d1d10b99b
+Description: A simple program to get geolocation of Wi-Fi access points by their BSSIDs
+
+Package: hex2dec
+Architecture: armhf
+Version: 1.1
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 67.19
+Filename: ./hex2dec-armhf.deb
+Size: 4056
+MD5sum: 63b6f3c6a65c7d7f9d138b03e839f357
+SHA1: fb47cf0e53cd7fd2404938f9d3abf34ee4c83084
+SHA256: 991675634480d1ef4f3eaa670c4f1cec34ad39c789bc78e8630152ac3d9c5955
+SHA512: a3488f72ad43ede4fd191ed76ca86569c392dbf16b815ba9b729e2f06d322199f8fe478fa7c158d4aeb8e55edb2d099ca711ec49f42cefd9398aab897d77958d
+Description: Converter HEX to DEC
+
+Package: magiskboot
+Architecture: armhf
+Version: 24300
+Maintainer: topjohnwu
+Filename: ./magiskboot-armhf.deb
+Size: 174364
+MD5sum: ac26e4fc369a1ca3a33339eae2726fed
+SHA1: 028b6636e10acc0976dfe29888e00ac911f549c5
+SHA256: 7590b11691b5d3a32e3ffcc12dd91e2516428f3c60f8cbc0e12b8ec91a432f3a
+SHA512: 2ca654806c45124fa35f923018c0575ae2ef533cf5d1871359a691efa2153c2d286c864740d31f6caebb7d46a1a9053655a8c14b4963d63ac95acd81998616b6
+Description: Magisk tool to repack boot images
+
+Package: mkbootimg-static
+Architecture: armhf
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 924
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-armhf.deb
+Size: 199836
+MD5sum: 2839c7eb2ddec0f78769d18f30f55d19
+SHA1: ae548b5d884e52660f0d0c96b9b8a88f9b5a79f4
+SHA256: fca80f355aeafbdb370ecbcf3bb79176d612125cfda55789bb8cde830dc20257
+SHA512: 3b10a69b535f143f8e538a1b830d175a00d425ffa6d0b45b0ea9d29ca35accf3b2228c548e90dc76723114b2f3a13651b2d79012bbdd49b9f4457f7fd0a313b3
+Description: Static bootimg utilities
+
+Package: upx
+Architecture: armhf
+Version: 3.96
+Maintainer: upx
+Installed-Size: 380
+Filename: ./upx-armhf.deb
+Size: 388964
+MD5sum: 7affc0afc80a04244eb3a6867c5f2759
+SHA1: 0a766db97c2951c6eefd86c3d89b0e58137d36e8
+SHA256: 2fd692f233f4b31cbf5ec02940b8c254e78e86ff75e0dd41b3a1ed58b033e0be
+SHA512: 693c25b79d1e03aea130cd6ae972f6b038a66a86a5ee1678001107b2416f290afb460acf9a309cd4099a3fb488d1f3d460d4c6a712f71c1c1dc74ba0b2806e70
+Description: Revrse-engineering tool
+

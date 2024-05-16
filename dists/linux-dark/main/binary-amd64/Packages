@@ -1,0 +1,170 @@
+Package: bat
+Architecture: amd64
+Version: 1.0
+Maintainer: sharkdp
+Filename: ./bat-amd64.deb
+Size: 14289348
+MD5sum: 6e6bf33025fac4e0f4ea8cd95c78e429
+SHA1: 2324d57bb6f0b740e2e94074efae725b01fffe4a
+SHA256: 2cba25740ec18a9801cc3d03f820c403ff0cb658434131b99cdf8f5e9e610e52
+SHA512: 236c34ca0ae2acaaf90131e01e0137790c4118605b3aef7ccbbde567060a0c1f13470b044e25a443b3933eec80e99a23cbbd6ae262e16e8a0fae9d340316f419
+Description: colored version of cat
+
+Package: busybox-magisk
+Architecture: amd64
+Version: 1.34.1-magisk
+Maintainer: topjohnwu
+Installed-Size: 2164
+Conflicts: busybox, busybox-meefik
+Filename: ./busybox-magisk-amd64.deb
+Size: 929988
+MD5sum: 149bd4a5995298b58cc8d29a6f67d5e2
+SHA1: 284a1dce4491d84537e55bb6ce818746f0354dad
+SHA256: ead83e0707b69942a3b1c033ef2cc00fd92a78ab05dbd9298bebd44f9870d2b1
+SHA512: 79ccfd424c7f5dfcc10895e5832c16677e87ef4f1d04be8fcd7e19156462d267cdfa056853e325bb3049a61ce6d2ebea6456b90ca894985082640b6ccef70011
+Description: Magisk version of Busybox
+
+Package: busybox-meefik
+Architecture: amd64
+Version: 1.34.1-meefik
+Maintainer: meefik
+Installed-Size: 1580
+Conflicts: busybox, busybox-magisk
+Filename: ./busybox-meefik-amd64.deb
+Size: 797052
+MD5sum: 972ae49b8ac9d9c53a4551b54471a447
+SHA1: 249be5112c6a051bda179baac942c37526df229e
+SHA256: 27601be4bbd794a256af6d5fccee5b00801fd46ef872269eff5125321ca8ee55
+SHA512: 27e2d6f9d40f4e89d478f1e59bd060575382541d6ebe038d90d033beea80df799e1f7b8afe7484268f05e25ca5d0d20f3e9aec6f562dda578446521f75e4b7df
+Description: Busybox with additional tools
+
+Package: dec2hex
+Architecture: x86-64
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 27.08
+Filename: ./dec2hex-x86_64.deb
+Size: 6184
+MD5sum: 972ddb1157c54cc1932f25f7555203e7
+SHA1: f007cc21ff1d6e3319578cc949f79fd8845a7a49
+SHA256: 76256d18728d35b81b4d463b72260e1ffe564870a7a4685258c67d3ff0a944ad
+SHA512: f13a650d6b3ca3f10278ad427282b942a6a6cf87f034684be89d5e3ddafb37cc2d9904a64a86e4c183e2af298abc41c76fd1a6232eb9e1cc45a00355bf2d8123
+Description: Converter DEC to HEX
+
+Package: geomac
+Architecture: amd64
+Version: 0.1-1
+Priority: optional
+Section: base
+Maintainer: Victor Golovanenko <drygdryg2014@yandex.com>
+Depends: libssl1.1, libgtk-3-0
+Filename: ./geomac-amd64.deb
+Size: 375728
+MD5sum: 78fe0eb77f1175bace9f0acbd417c68f
+SHA1: 0af1eb76978dc861b56937c8dfff0a2ded43908b
+SHA256: 9c765eb37a2766ad5fb0828f61792adb0562231a101774f84e6084a9d3ddf936
+SHA512: ed1765edbfbd2aa989add0df605af00f2ea2565dce380f0aa43df0f7f674a903acd2797bf71d0d09b4c7987a9a9eb61aa10ec2d06c60f9e252199610a1a7e4b2
+Description: A simple program to get geolocation of Wi-Fi access points by their BSSIDs
+
+Package: hex2dec
+Architecture: amd64
+Version: 1.1
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 18.9
+Filename: ./hex2dec-amd64.deb
+Size: 4320
+MD5sum: 23997ebb72547533b72640049c8f41ad
+SHA1: ce7bea5faf8d13148364472fb4c344e2ec9d07e1
+SHA256: 39cf7e671b5725f77c0486a6f0bbc44c14455fd387dfcb984369d1782fd19d94
+SHA512: e6a3c99a3bad2af2a4b6c7b07cbd1eb38cc9f5f7550db3bf19692d25385e65324f27b0af468922aed08b30faacee8df91ac6f58104eb8557eae686427efa316b
+Description: Converter HEX to DEC
+
+Package: hex2dec
+Architecture: x86-64
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 14.69
+Filename: ./hex2dec-x86_64.deb
+Size: 3364
+MD5sum: 1b6e2fa30a798d01ce2b6c08f24d3fa7
+SHA1: c9e45c81ef4d45c7dfe4e5466886dc84ee06d8b6
+SHA256: 846bcc0962053e47a11f2ab728e498e814fea07cc6571fa2306ef5827ee7f93d
+SHA512: c995042059960da9485a99b65d91a8da66f925a2a90320c3c5db82f365ce3dff4d54bf56202d76a7addc071cef0d18cbfa6a0394108db4db1f01cb7882cc3ffd
+Description: Converter HEX to DEC
+
+Package: isoload
+Architecture: amd64
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 195
+Filename: ./isoload-amd64.deb
+Size: 904
+MD5sum: 087d802bf14e78de945db11d670fd177
+SHA1: 344a94d323df684f8d87bcb692cca2308212dc9f
+SHA256: 0145852022927f479f2a6fcbba93103b30893ed9470fa9ab1b9b6efc41b12f09
+SHA512: 921880aa703cf35fc8c9048c39f2a51f9726012dedec64745aeebaabd7a1f3efb6080990acc304f300a263aab9504d288aad9d5a714eb5ad51d23a71e369157b
+Description: ISO writer for Linux
+
+Package: lsd
+Architecture: amd64
+Version: 1.0
+Maintainer: Peltosche
+Filename: ./lsd-amd64.deb
+Size: 8695880
+MD5sum: 1638eae5c2570f8f26524f225268574d
+SHA1: df84a124581624c83a769adeeda5735ae65545ce
+SHA256: 567a53b84bddc84c972ddd7a4dcf80811112ad31e560aa3e3d03e452db134751
+SHA512: efabbce4ec3b80971910898dab7ba574d95c2afd9e098ea4044e288a4872c3e59c7290a71870828fc16e7eac07a21952473c20e5c20d72dddfeedf3dd2a3ba2d
+Description: Symbolic output of ls
+
+Package: magiskboot
+Architecture: amd64
+Version: 24300
+Maintainer: topjohnwu
+Filename: ./magiskboot-amd64.deb
+Size: 290532
+MD5sum: 991c762d531036632514e1a46997e1e1
+SHA1: 5a35cf6420c019f4b34d2770b06b406c694385a9
+SHA256: b60fa2c93a377eaf12ab0d025cdcd4cceb2517727461d3d5a031e0b1b9f555f1
+SHA512: 023b950959dbbd0d984669c93e0be76407eb8d4baf9632a0afe95a88f36620cedf737b85c0a1185b3b61e84115271f435d197d760075e1f870f0da7a015312ea
+Description: Magisk tool to repack boot images
+
+Package: mkbootimg-static
+Architecture: amd64
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 1516
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-amd64.deb
+Size: 309988
+MD5sum: 92e227caa06b458b7d24dacc751f1b2e
+SHA1: 3fc83279ca3878c36bc3473b490fdaf800c7be55
+SHA256: a980cf45124bc0d97067162f3e3db2c37921ab84edf8ace39c6a0d01ace52dfa
+SHA512: daa252e7d59d7f6aed93a1c734073f74a1d8b290cc2df3d7ba0b03c7a5243d1896f2492233946f1c522aa3cae66b360e43df8d12c2184b3807f9542f125f87da
+Description: Static bootimg utilities
+
+Package: upx
+Architecture: amd64
+Version: 3.96
+Maintainer: upx
+Installed-Size: 419
+Filename: ./upx-amd64.deb
+Size: 428984
+MD5sum: 414585b794404a26c9ad93c295d9660c
+SHA1: 4a9651cdb7abe596a6f6eedbf67911051b277425
+SHA256: 44478617b170be2255a80b4765dfa53f3760ec810d8b6a8387345684d27574a5
+SHA512: a60de42b9cfd92518dcd029e78643338beb45ea5b82d166c8c87b78538bc75f92a6b278a8927e53289c57e9a9f7c5588cc985f5e1b0a451529ef9b222da38099
+Description: Revrse-engineering tool
+

@@ -1,0 +1,75 @@
+Package: btop
+Architecture: armel
+Version: 1.0.6
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: aristocratos
+Installed-Size: 3857596
+Filename: ./btop-armel.deb
+Size: 1028308
+MD5sum: f229e5db0663e6f1e1b030e412e71309
+SHA1: d8b76529444adb380167da6d4d26a62e96440174
+SHA256: c9ce728b6a74e602a0d55a0e1dd22d3483e32ecfa44a0bebba93fcc959d44d15
+SHA512: 096e1d06d2f64b9026410fa9e2cd3bdb4eb4bf2a1c48c5fd25cefe6c863ee148fcb39ebaa01b90463eee9e6b1d6973fa74adb374e215d01d7342e33b802a31b7
+Description: Linux task manager
+
+Package: dec2hex
+Architecture: armel
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 67.18
+Filename: ./dec2hex-armel.deb
+Size: 5112
+MD5sum: 06825d131f882fde5acf33cd16fd5020
+SHA1: b17b9803afc6ec84f5eb3e59df853ff97faa7599
+SHA256: 9a696016cc87a13e80886e1dc17d4f81ce4e23a3f7e13bbecdc1f29b567a5a6c
+SHA512: b8300314a5e7bf286de189a40755155f411f32e10b1690dde82b69367c8d2e3d4ea00e304d92356021a3e570c10e86cc442e5cd09084a118d364cd0e1a4e75ed
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: armel
+Version: 1.1
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 67.18
+Filename: ./hex2dec-armel.deb
+Size: 3876
+MD5sum: 55aa7ae1fdb8b07f3eb700d2c67939af
+SHA1: d75e67e734441acb5bed5159a614414a0218e216
+SHA256: 8aa624d831657a4a55c3a77e19c7b9973a111fe912a933c3ae557fc2ce899287
+SHA512: 860f106fb7a16b74739af5f596edc3b380acdbe8c6d8461ea98d07bbc45adc7272031a7da82cc67f8c2da931b78359d26cf18e050f420d0c63906086b400be21
+Description: Converter HEX to DEC
+
+Package: mkbootimg-static
+Architecture: armel
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 708
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-armel.deb
+Size: 204908
+MD5sum: 31c6c8082c4dc5a7f76c753ff937d2bd
+SHA1: dd9430055edcccc9f0248108f11e029b6a6faffc
+SHA256: 3c8a0b880c991d9d31400ca91960588774b3c79a187355fee0da76b23791fc95
+SHA512: 7caec4be6d9c9d3359f50c851940d775627451b76e615c0a80da241b2dcd93b395ce4046e07e96dedc53c5c7514ab405c4575bf64c57366cb7b3ee26ff247d2b
+Description: Static bootimg utilities
+
+Package: upx
+Architecture: armel
+Version: 3.96
+Maintainer: upx
+Installed-Size: 374
+Filename: ./upx-armel.deb
+Size: 383336
+MD5sum: 34b82427bde7e8c0c4f3a365712e8ff8
+SHA1: 9752a75d25ff0b225f030e78cc2ba2043c308287
+SHA256: 0cb19cb371561018a1948fafe239ddd5a4022e10380a1268cd8192c97da9ae16
+SHA512: 527cf0b0ae67c8db1b13dd32d43fb8d424efac65dd6f0c58d2f939f278b414efcfabf01f689602b5cfcbdbd012aab94822fcf4ff3773f435eb4dfc97be512a9c
+Description: Reverse-engineering tool
+
